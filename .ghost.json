@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://rohitm.herokuapp.com/",
+    "apiUrl": "https://rohitm.herokuapp.com",
     "contentApiKey": "8c5a603801f7172a644ac4ce87"
   },
   "production": {
-    "apiUrl": "https://rohitm.herokuapp.com/",
+    "apiUrl": "https://rohitm.herokuapp.com",
     "contentApiKey": "8c5a603801f7172a644ac4ce87"
   }
 }
